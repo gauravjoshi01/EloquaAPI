@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eloqua_API", "Eloqua_API\Eloqua_API.csproj", "{DAC4B6E2-0BDE-4312-97FB-17ADD39C084B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eloqua_API_Test", "Eloqua_API_Test\Eloqua_API_Test.csproj", "{E79912F6-0BDF-4CFC-AE46-AD4092A206AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC4B6E2-0BDE-4312-97FB-17ADD39C084B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC4B6E2-0BDE-4312-97FB-17ADD39C084B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC4B6E2-0BDE-4312-97FB-17ADD39C084B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC4B6E2-0BDE-4312-97FB-17ADD39C084B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79912F6-0BDF-4CFC-AE46-AD4092A206AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79912F6-0BDF-4CFC-AE46-AD4092A206AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79912F6-0BDF-4CFC-AE46-AD4092A206AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79912F6-0BDF-4CFC-AE46-AD4092A206AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E4C633-DE81-42BA-A256-7FCF3FFBF5C4}
+	EndGlobalSection
+EndGlobal
